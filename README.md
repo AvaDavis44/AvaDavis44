@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there, I'm Ava Davis! 👋
 
-<!--
-**AvaDavis44/AvaDavis44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer and a computer science student.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a personal project to create a web application for managing tasks and deadlines.
+- 🌱 I’m currently learning React Native for mobile app development.
+- 💬 Ask me about web development, algorithms, or anything tech-related!
+- 📫 How to reach me: avadavis44@gmail.com
+
+## Skills
+
+- Programming Languages: JavaScript, Python, TypeScript
+- Frontend: React, Vue.js, HTML, CSS, Ant Design Vue
+- Backend: Node.js, Express.js
+- Databases: MongoDB, PostgreSQL, SQLite
+- Tools & Technologies: Git, VS Code, Docker, Heroku
+
+Feel free to reach out if you have any questions or just want to connect!
